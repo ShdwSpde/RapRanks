@@ -35,12 +35,14 @@ a:hover {
   height: 125px;
   width: 125px;
   float: left;
+  clearfix: auto;
 }
 
 #right {
   height: 125px;
   width: 125px;
   float: right;
+  clearfix: auto;
 }
 
 nav a {
